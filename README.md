@@ -1,10 +1,9 @@
 # AURA AI - Personal AI Assistant with Resume Analysis
 
-A voice-controlled AI assistant that can analyze your resume and answer questions about your background, experience, skills, and more. Built with Python, OpenAI GPT, and speech recognition.
+An AI assistant that can analyze your resume and answer questions about your background, experience, skills, and more. Built with Python, OpenAI GPT, and speech recognition.
 
 ## Features
 
-🤖 **Voice-Controlled Interface**: Speak naturally to interact with the AI
 📄 **Resume Analysis**: Upload your resume and ask questions about your background
 🎯 **Smart Responses**: AI analyzes your resume content to provide personalized answers
 ⏰ **General Assistance**: Get time, open websites, and general chat
@@ -49,8 +48,6 @@ The AI will automatically load and analyze your resume when you start the applic
 ```bash
 python main.py
 ```
-
-### Voice Commands
 
 #### Resume Analysis
 - **"What's my background in Python?"** - Ask about specific skills
