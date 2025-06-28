@@ -1,0 +1,103 @@
+SHOBHIT SHOURYA
+📞 +91 7477012992 | 📧 shouryashobhit1@gmail.com
+🔗 LinkedIn | 🔧 GitHub | 📜 Certificates
+
+Professional Summary
+A highly driven and analytical undergraduate student pursuing B.Tech at Vellore Institute of Technology. Passionate about leveraging software development, data analytics, and cloud computing to solve real-world problems. I bring a blend of strong technical skills, creativity, and practical experience through hands-on projects and internships. I'm looking for an environment that promotes learning, innovation, and responsibility where I can make meaningful contributions to challenging and impactful initiatives.
+
+Education
+Vellore Institute of Technology (VIT), Vellore, India
+Bachelor of Technology (B.Tech)
+2022 – Present
+
+Delhi Public School, Bhopal, India
+Class 12 (CBSE), 2022 — 82%
+Class 10 (CBSE), 2020 — 87%
+
+Technical Skills
+Languages & Programming: Java, JavaScript, TypeScript, SQL
+
+Frontend Development: HTML5, CSS3, React.js
+
+Design & Prototyping: Figma
+
+App Development: Android Studio, Expo
+
+Cloud & DevOps: AWS (Elastic Beanstalk, Architecture Diagramming, Pricing Models)
+
+Data & Analysis: Tableau, Excel, Spreadsheets, Data Modeling, Data Analysis
+
+Certifications & Internships
+💻 Microsoft Azure AI Fundamentals (AI-900) – Internship
+Microsoft | May – June 2024
+
+Completed Microsoft's AI-900 certification covering essential AI concepts and Azure cloud tools.
+
+Gained in-depth knowledge in machine learning, computer vision, natural language processing, and AI use cases in enterprise cloud environments.
+
+Developed the foundational ability to work with AI-driven tools and platforms in real-world contexts.
+
+Projects
+🔹 Portfolio Website
+HTML, CSS, JavaScript
+
+Designed and developed a responsive and interactive personal portfolio site.
+
+Showcases key projects, certifications, and achievements in a structured layout.
+
+Integrated visual animations and smooth scroll features for a professional user experience.
+
+🔹 CleanIT – Hostel Room Cleaning Service App
+TypeScript, Expo
+
+Created a cross-platform mobile/web app that allows hostel students to schedule room cleaning services.
+
+Focused on ease of use, minimal interface, and automated service booking.
+
+Implemented backend logic and state management to handle bookings, notifications, and scheduling seamlessly.
+
+🔹 Scribl – Note-Making Application
+JavaScript
+
+A lightweight note-taking app enabling users to write, edit, and manage notes quickly.
+
+Focused on clean UI/UX with features like autosave, light/dark mode toggle, and note categorization.
+
+Created as a personal productivity tool using a minimalist design approach.
+
+Courses & Simulations
+📊 Deloitte Australia – Data Analytics Job Simulation (June 2025)
+Participated in a virtual internship simulating real-world data analytics tasks.
+
+Created a comprehensive data dashboard using Tableau, visualizing key business metrics.
+
+Utilized Excel for data classification and analysis to drive actionable business insights.
+
+Demonstrated strong communication by preparing reports and justifying conclusions drawn from forensic data.
+
+☁️ AWS APAC – Solutions Architecture Virtual Experience (March 2025)
+Built a scalable AWS Elastic Beanstalk architecture to resolve performance bottlenecks.
+
+Analyzed cost structures and presented a breakdown of resource allocation to clients in simple terms.
+
+Focused on practical implementation of AWS services for client scalability, cost-efficiency, and reliability.
+
+Portfolio Links
+🔗 Portfolio Website: shob0902.github.io/Portfolio
+
+🔗 CleanIT Project: GitHub - CleanIT
+
+🔗 Scribl App: GitHub - Scribl
+
+📂 All Certificates: Google Drive Folder
+
+Key Strengths
+Strong foundation in object-oriented programming (Java)
+
+Proficient in modern web and mobile development frameworks
+
+Good understanding of cloud architecture and scalable system design
+
+Passion for data-driven decision-making and clean UI design
+
+Excellent time management and independent project execution 
