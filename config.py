@@ -1,5 +1,5 @@
 # Google Gemini API Configuration
-GEMINI_API_KEY = "AIzaSyAcLY6mYzVmpRu64qbWkDcMdRWJy41rvWE"
+GEMINI_API_KEY = "Api_key"
 
 # Resume Analysis Configuration
 RESUME_FILE_PATH = "Resume_Shobhit.pdf"  # Path to your resume file
