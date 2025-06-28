@@ -1,4 +1,4 @@
-# Personal AI Assistant with Resume Analysis
+# Aura AI - Personal AI Assistant with Resume Analysis
 
 A voice-controlled AI assistant that can analyze your resume and answer questions about your background, experience, skills, and more. Built with Python, OpenAI GPT, and speech recognition.
 
