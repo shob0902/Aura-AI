@@ -1,6 +1,6 @@
 # AURA AI - Personal AI Assistant with Resume Analysis
 
-An AI assistant that can analyze your resume and answer questions about your background, experience, skills, and more. Built with Python, OpenAI GPT, and speech recognition.
+An AI assistant that can analyze your resume and answer questions about your background, experience, skills, and more. Built with Python and Gemini API keys.
 
 ## Features
 
